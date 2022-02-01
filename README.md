@@ -45,7 +45,7 @@ Example:
 
 ### Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/iam-NVN/stripekey-generator)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https:heroku.com/deploy?template=https://github.com/iam-NVN/stripekey-generator)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
